@@ -1,1 +1,37 @@
-#
+body{
+	display:flex;
+    flex-wrap:wrap;
+    text-align:center;
+    margin:auto;
+    background-color: #1A535C;
+}
+
+button{
+	background-color: #F7FFF7;
+	width: 40px;
+	text-align: center;
+}
+
+/*#1A535C
+#4ECDC4
+#F7FFF7
+#FF6B6B
+#FFE66D*/
+
+.box{
+    text-align:center;
+    margin:auto;
+    background-color: #4ECDC4;
+    border-radius: 10px;
+    padding: 15px 15px 15px 15px;
+}
+
+.break{
+	padding: 2px; 
+}
+
+#screen{
+	border-radius: 10px;
+	padding: 5px;
+	background-color: #F7FFF7;
+}
