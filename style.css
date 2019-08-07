@@ -8,7 +8,11 @@ body{
 
 button{
 	background-color: #F7FFF7;
-	width: 40px;
+	width: 100px;
+    height: 50px;
+    font-size: 1.5em;
+    font-family: 'Courier New';
+    font-weight: bold;
 	text-align: center;
 }
 
@@ -23,14 +27,21 @@ button{
     margin:auto;
     background-color: #4ECDC4;
     border-radius: 10px;
-    padding: 15px 15px 15px 15px;
+    padding: 25px 15px 25px 15px;
+    width: 500px;
+    height: 400px;
 }
 
 .break{
-	padding: 2px; 
+	padding: 5px; 
 }
 
 #screen{
+    height: 100px;
+    width: 450px;
+    font-size: 5em;
+    font-family: 'Courier New';
+    font-weight: bold;
 	border-radius: 10px;
 	padding: 5px;
 	background-color: #F7FFF7;
